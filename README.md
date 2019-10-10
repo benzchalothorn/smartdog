@@ -1,0 +1,2 @@
+# smartdog
+GitHub Pages
